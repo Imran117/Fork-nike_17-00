@@ -170,3 +170,42 @@ text-transform: uppercase;
   margin-bottom: 50px;
 }
 
+.footer__catalog{
+  background: #322E41;
+}
+
+.footer__catalog-tabs{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.footer__catalog-list{
+display: flex;
+list-style: none;
+margin-top: 88px;
+margin-bottom: 23px;
+}
+
+
+.footer-link{
+  color: white;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  margin: 15px;
+  padding-bottom: 20px;
+  font-family: 'Roboto';
+  
+  border-bottom: 2px solid #FFFFFF;
+ 
+  border-color: transparent;
+  transition: 0.4s;
+}
+
+.footer-link:hover{
+  border-color: white;
+  color: #FFE600;
+}
