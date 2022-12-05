@@ -209,3 +209,16 @@ margin-bottom: 23px;
   border-color: white;
   color: #FFE600;
 }
+
+.footer__proweb{
+  background: #1E1A29;
+}
+
+.footer__proweb-end{
+  text-align: center;
+}
+
+.footer__proweb-text{
+  color: white;
+  padding: 5px 0;
+}
