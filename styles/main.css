@@ -80,3 +80,32 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.main__just-bg{
+  background: url(../images/bg.png) top / cover no-repeat;
+  height: 700px;
+}
+
+.main__just-nike{
+  margin-left: 50px;
+  background: #BABABA80 50%;
+  width: 400px;
+height: 154px;
+text-align: center;
+}
+
+.main__nike-text{
+  padding: 20px;
+  font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: white;
+
+}
+
+.main__nike-text2{
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: white;  
+}
